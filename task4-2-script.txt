@@ -1,0 +1,7 @@
+vagrant@vagrant-ubuntu-trusty-32:~/csci461-hw$ ./t4 AAAAAAAAAAAABBBBBBBBBBBB��
+arg: AAAAAAAAAAAABBBBBBBBBBBB��
+checking auth return
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ Access Granted.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
