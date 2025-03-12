@@ -1,0 +1,7 @@
+vagrant@vagrant-ubuntu-trusty-32:~/csci461-hw$ ./t4 bufferoverflow--_
+arg: bufferoverflow--_
+checking auth return
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ Access Granted.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
